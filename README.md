@@ -1,0 +1,2 @@
+# bootstrapperfiles
+for my bootstrapper
