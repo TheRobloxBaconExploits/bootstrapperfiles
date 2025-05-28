@@ -7,15 +7,14 @@ Pluto Executor Info:
 
 Version Status:
 Status1.0.0X = "Working"
-Status1.0.0N = "Not Working"
+Status1.0.0N = "Working"
 LatestPluto = "v.1.1.5"
 
 Change Log:
-ChangeLog = "[+] Third Release Ever
-[+] Added Extras Page
-[+] Added Easy Mode (for newer explioters)
-[+] Added Lag Settings
-[+] Added Roblox Settings
+ChangeLog = "[+] Added EPIC Sidepanel
+[+] Fixed More Info button in ScriptHub scripts
+[+] Revamped text
+[-] Removed Broken sliders in The ExtraPage
 [+] Fixed Xeno API
 [+] Fixed Nezur API
-[+] Removed Herobrine"
+[-] Removed Herobrine"
