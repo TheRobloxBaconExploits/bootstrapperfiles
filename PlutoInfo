@@ -18,3 +18,6 @@ ChangeLog = "[+] Added EPIC Sidepanel
 [+] Fixed Xeno API
 [+] Fixed Nezur API
 [-] Removed Herobrine"
+
+Bootstrapper:
+InteractiveImage = "https://cdn.discordapp.com/attachments/1354922888792117488/1377105606980407306/image.png?ex=683c5e4a&is=683b0cca&hm=f15e5d49612b05ea7deab9b07b276f2faa7263e9309d8b788bdcb26ac9353805&"
