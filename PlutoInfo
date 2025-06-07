@@ -11,10 +11,10 @@ Status1.0.0N = "Working"
 LatestPluto = "v.1.1.6"
 
 Change Log:
-ChangeLog = "[+] Added EPIC Sidepanel
-[+] Fixed More Info button in ScriptHub scripts
-[+] Revamped text
-[-] Removed Broken sliders in The ExtraPage
+ChangeLog = "[+] Added EPIC Sidepanel (old)
+[+] Fixed More Info button in ScriptHub scripts (old)
+[+] Revamped text (old)
+[-] Removed Broken sliders in The ExtraPage (old)
 [+] Fixed Xeno API
 [+] Fixed Nezur API
 [-] Removed Herobrine"
