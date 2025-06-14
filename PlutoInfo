@@ -21,3 +21,4 @@ ChangeLog = "[+] Added EPIC Sidepanel (old)
 
 Bootstrapper:
 InteractiveImage = "https://i.postimg.cc/8c0TRjX2/pluto115interactive.png"
+PlutoExePath = "Pluto Executor\Pluto\Debug"
